@@ -126,7 +126,6 @@ body {
 	padding: 15px;
 }
 .first__string {
-	justify-content: space-around;
 	display: flex;
 	flex-wrap: wrap;
 }
